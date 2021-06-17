@@ -2,11 +2,14 @@
 
 I make 0 guarantee to anything working here.
 
-this repo is just stuff for fun/practice
+this repo is just stuff for fun/practice  
 
-current nonsense list:  
-fizzbuzz in asm (calls to printf)  
-a bash script to build the above (doesn't work lol)  
+current in progress list:  
+a bash script to build/link and clean fizzbuzz 
 nonogram generator/solver (generator WIP/solver not started)  
-some random probability stuff  
 
+
+completed stuff:  
+fizzbuzz in x86 asm  
+some random probability stuff   
+a binary max depth search  
